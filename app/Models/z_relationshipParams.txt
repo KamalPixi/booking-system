@@ -1,0 +1,2 @@
+hasOne/hasMany/hasEtc -> Model::class, foreign_key, local_key
+belongsTo/belongsEtc -> Model::class, foreign_key, owner_key (Model->id)
