@@ -1,5 +1,4 @@
-# Project Title
-Booking System.
+# Booking System.
 
 ## Description
-A booking system.
+A booking system made with laravel.
